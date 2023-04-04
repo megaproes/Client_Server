@@ -1,0 +1,6 @@
+F:/VS_Code/0013_Server_Client_WinAPI/build/CMakeFiles/Server.dir
+F:/VS_Code/0013_Server_Client_WinAPI/build/CMakeFiles/Client.dir
+F:/VS_Code/0013_Server_Client_WinAPI/build/CMakeFiles/package.dir
+F:/VS_Code/0013_Server_Client_WinAPI/build/CMakeFiles/package_source.dir
+F:/VS_Code/0013_Server_Client_WinAPI/build/CMakeFiles/edit_cache.dir
+F:/VS_Code/0013_Server_Client_WinAPI/build/CMakeFiles/rebuild_cache.dir

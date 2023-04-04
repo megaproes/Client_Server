@@ -1,0 +1,38 @@
+[
+{
+  "directory": "F:/VS_Code/0013_Server_Client_WinAPI/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\Server.dir\\Server.cpp.obj -c F:\\VS_Code\\0013_Server_Client_WinAPI\\Server.cpp",
+  "file": "F:\\VS_Code\\0013_Server_Client_WinAPI\\Server.cpp",
+  "output": "CMakeFiles\\Server.dir\\Server.cpp.obj"
+},
+{
+  "directory": "F:/VS_Code/0013_Server_Client_WinAPI/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\Server.dir\\server_start.cpp.obj -c F:\\VS_Code\\0013_Server_Client_WinAPI\\server_start.cpp",
+  "file": "F:\\VS_Code\\0013_Server_Client_WinAPI\\server_start.cpp",
+  "output": "CMakeFiles\\Server.dir\\server_start.cpp.obj"
+},
+{
+  "directory": "F:/VS_Code/0013_Server_Client_WinAPI/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\Server.dir\\command.cpp.obj -c F:\\VS_Code\\0013_Server_Client_WinAPI\\command.cpp",
+  "file": "F:\\VS_Code\\0013_Server_Client_WinAPI\\command.cpp",
+  "output": "CMakeFiles\\Server.dir\\command.cpp.obj"
+},
+{
+  "directory": "F:/VS_Code/0013_Server_Client_WinAPI/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\Client.dir\\Client.cpp.obj -c F:\\VS_Code\\0013_Server_Client_WinAPI\\Client.cpp",
+  "file": "F:\\VS_Code\\0013_Server_Client_WinAPI\\Client.cpp",
+  "output": "CMakeFiles\\Client.dir\\Client.cpp.obj"
+},
+{
+  "directory": "F:/VS_Code/0013_Server_Client_WinAPI/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\Client.dir\\client_start.cpp.obj -c F:\\VS_Code\\0013_Server_Client_WinAPI\\client_start.cpp",
+  "file": "F:\\VS_Code\\0013_Server_Client_WinAPI\\client_start.cpp",
+  "output": "CMakeFiles\\Client.dir\\client_start.cpp.obj"
+},
+{
+  "directory": "F:/VS_Code/0013_Server_Client_WinAPI/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\Client.dir\\command.cpp.obj -c F:\\VS_Code\\0013_Server_Client_WinAPI\\command.cpp",
+  "file": "F:\\VS_Code\\0013_Server_Client_WinAPI\\command.cpp",
+  "output": "CMakeFiles\\Client.dir\\command.cpp.obj"
+}
+]
