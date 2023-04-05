@@ -7,3 +7,8 @@
 12	693	7022644739765597	CMakeFiles/Client.dir/command.cpp.obj	539650cc8e9c841f
 689	1673	7022644749473717	Server.exe	549717bb532b944c
 9	689	7022644739715600	CMakeFiles/Server.dir/command.cpp.obj	5b225e107bb65550
+9	3044	7023260697066970	CMakeFiles/Server.dir/server_start.cpp.obj	41c95f5ceb4ec10b
+3045	4083	7023260707371679	Server.exe	549717bb532b944c
+12	3043	7023275718795871	CMakeFiles/Server.dir/server_start.cpp.obj	41c95f5ceb4ec10b
+9	3515	7023278717869885	CMakeFiles/Server.dir/Server.cpp.obj	23ae9fd05a8142d0
+3516	4370	7023278726309888	Server.exe	549717bb532b944c

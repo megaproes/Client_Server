@@ -1,6 +1,6 @@
 #include "Server.h"
 #include <iostream>
-
+#include <thread>
 Server::Server(int port) : m_port(port), m_listenSocket(INVALID_SOCKET)
 {
 	Command *sendMessageCmd = new SendMessageCommand("");
@@ -75,7 +75,9 @@ void Server::Start()
 			return;
 		}
 		std::cout << "New client connected" << std::endl;
-		ProcessClientConnection(clientSocket);
+
+		std::thread clientThread(&Server::ProcessClientConnection, this, std::ref(clientSocket));
+		clientThread.detach();
 	}
 }
 
